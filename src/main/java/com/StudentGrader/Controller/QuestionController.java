@@ -15,7 +15,7 @@ import com.StudentGrader.Service.QuestionService;
 
 @RestController
 @RequestMapping("/questions")
-@CrossOrigin(origins ="https://front-end-student-grader.vercel.app", allowCredentials = "true")
+@CrossOrigin(origins ="https://front-end-student-grader-alpha.vercel.app/", allowCredentials = "true")
 public class QuestionController {
 	
 	

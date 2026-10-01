@@ -98,7 +98,7 @@ public class MailSenderService {
                 "<hr>" +
 
                 "<p style=\"font-size:12px;color:#666;\">" +
-                "Developed by bhiseamarwagholi@gmail.com" +
+                "Developed by shivamkarad29@gmail.com" +
                 "</p>" +
 
                 "</div>" +
@@ -129,7 +129,7 @@ public class MailSenderService {
                 "<hr>" +
 
                 "<p style=\"font-size:12px;color:#666;\">" +
-                "Developed by bhiseamarwagholi@gmail.com" +
+                "Developed by shivamkarad29@gmail.com" +
                 "</p>" +
 
                 "</div>" +

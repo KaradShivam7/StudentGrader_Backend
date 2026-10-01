@@ -181,7 +181,7 @@ import jakarta.mail.MessagingException;
 
 @RestController
 @RequestMapping("/quiz")
-@CrossOrigin(origins = "https://front-end-student-grader.vercel.app", allowCredentials = "true")
+@CrossOrigin(origins = "https://front-end-student-grader-alpha.vercel.app/", allowCredentials = "true")
 public class QuizController {
 
 	Logger log = LoggerFactory.getLogger(QuizController.class);

@@ -46,8 +46,8 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
 
         config.setAllowedOrigins(List.of(
-                "https://front-end-student-grader.vercel.app",
-              "https://front-end-student-grader-git-master-amarbhise97s-projects.vercel.app"
+                "https://front-end-student-grader-alpha.vercel.app"
+              
         ));
         config.setAllowedMethods(List.of(
                 "GET",

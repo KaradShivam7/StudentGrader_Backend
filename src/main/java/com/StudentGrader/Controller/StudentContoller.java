@@ -109,7 +109,7 @@ import com.StudentGrader.Service.MailSenderService;
 import jakarta.mail.MessagingException;
 @RequestMapping("/students")
 @RestController
-@CrossOrigin(origins = "https://front-end-student-grader.vercel.app", allowCredentials = "true")
+@CrossOrigin(origins = "https://front-end-student-grader-alpha.vercel.app/", allowCredentials = "true")
 public class StudentContoller {
 
 	Logger log = LoggerFactory.getLogger(StudentContoller.class);
