@@ -152,7 +152,7 @@ http://localhost:5173
 
  👨‍💻 Author
 
-Amar Bhise   
+Karad Shivam   
 
 ---
 
